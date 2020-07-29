@@ -1,0 +1,171 @@
+body{
+    background: "assets/images/fondo.jpg";
+}
+
+#menu{
+    background-color: black;
+    text-align: center;
+
+}
+
+#menu ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+  
+
+
+}
+
+#menu ul li{
+    display: inline-block;
+    
+}
+
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    
+
+}
+
+#menu ul li a:hover{
+    background-color:#2747C0;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 1s;
+
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    font-style: italic;
+}
+
+.bajada{
+
+    font-size: 19px;
+    font: outline;
+    color: midnightblue;
+    font-weight: bold;
+}
+
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-variant: initial;
+}
+
+.video {
+    display:block;
+    margin:auto;
+}
+
+#pilarcentro {
+    background-color: white;
+    padding: 30px;
+    width: 65%;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+.foto1ps5{
+    width: 98%;
+   
+}
+
+.fotot{
+    width: 60%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.bannerup{
+    width: 99%;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    border-radius: 5px;
+
+}
+
+.bannerdown{
+    width: 100%;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+
+}
+
+.blockquote {
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: extra-expanded;
+    color: #333333;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-left-color: 15px blue;
+    padding-left: 5px;
+}
+
+.tabla1{
+    width: 100%;
+    background-color: aliceblue;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 0px 0px 0px;
+   
+}
+
+.juegos{
+    width: 60%;
+    margin: 0px 0px 0px 0px ;
+    padding: 1px 1px 1px 1px;
+}
+
+.boton{
+    width: 170px; height: 30px;
+    background-color: midnightblue;
+    color: white;
+    border-radius: 6px;
+    border-color: skyblue;
+    cursor: pointer;
+    margin: 1px 1px 1px 1px;
+    line-height: 1,5px;
+
+}
+
+.boton:hover{
+    background-color: steelblue;
+    transition: background-color 1s;
+}
+
+.boton p{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    
+}
+
+.boton p a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    
+}
