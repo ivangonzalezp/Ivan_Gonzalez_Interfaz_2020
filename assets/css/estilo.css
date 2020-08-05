@@ -73,8 +73,8 @@ p {
 
 #pilarcentro {
     background-color: white;
-    padding: 30px;
-    width: 65%;
+    padding: 10px;
+    width: 90%;
     margin-top: 0px;
     margin-right: auto;
     margin-bottom: 0px;
@@ -168,4 +168,32 @@ p {
     display: block;
     padding: 0px;
     
+}
+
+article{
+    float: left;
+    width: 68%;
+    margin-left: 150px;
+}
+
+aside{
+    align-items: center;
+    float: right;
+    width: 10;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+    
+}
+
+.aside1{
+    width: 100px;
+}
+
+.aside2{
+    align-items: center;
+}
+
+.aside3{
+    align-items: center;
 }
